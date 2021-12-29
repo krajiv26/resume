@@ -6,7 +6,7 @@ const Nav = () =>  {
         <>
           <nav className="navbar navbar-expand-sm navbar-dark bg-dark">
             <div className="container-fluid">
-                <Link className="navbar-brand" href="/">
+                <Link href="/" passHref>
                     <Image src="/img_avatar1.png" alt="Avatar Logo"  className="rounded-pill" width="40" height="40"/>
                 </Link>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">

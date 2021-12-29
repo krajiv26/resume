@@ -25,7 +25,7 @@ const dataVisualisation = () =>  {
                                 <div className="card-body">
                                     <div className="row">
                                         <div className="col-md-6"   >
-                                            <Image src="/portfolio/periodictable.jpg" width="500" height="280"></Image>
+                                            <Image src="/portfolio/periodictable.jpg" width="500" height="280" alt=""></Image>
                                         </div>
                                         <div className="col-md-6 mt-2" >
                                         <div className="h5">Periodic Table</div>
@@ -42,7 +42,7 @@ const dataVisualisation = () =>  {
                                 <div className="card-body">
                                     <div className="row">
                                         <div className="col-md-6"   >
-                                            <Image src="/portfolio/moon_mission.jpg" width="500" height="280"></Image>
+                                            <Image src="/portfolio/moon_mission.jpg" width="500" height="280" alt=""></Image>
                                         </div>
                                         <div className="col-md-6 mt-2" >
                                         <div className="h5">Lunar Mission</div>
@@ -59,7 +59,7 @@ const dataVisualisation = () =>  {
                                 <div className="card-body">
                                     <div className="row">
                                         <div className="col-md-6"   >
-                                            <Image src="/portfolio/covidtimeline.jpg" width="500" height="280"></Image>
+                                            <Image src="/portfolio/covidtimeline.jpg" width="500" height="280" alt=""></Image>
                                         </div>
                                         <div className="col-md-6 mt-2" >
                                         <div className="h5">Covid Timeline</div>
@@ -76,7 +76,7 @@ const dataVisualisation = () =>  {
                                 <div className="card-body">
                                     <div className="row">
                                         <div className="col-md-6"   >
-                                            <Image src="/portfolio/confusion.jpg" width="500" height="280"></Image>
+                                            <Image src="/portfolio/confusion.jpg" width="500" height="280" alt=""></Image>
                                         </div>
                                         <div className="col-md-6 mt-2" >
                                         <div className="h5">Confusion matrix</div>
@@ -93,7 +93,7 @@ const dataVisualisation = () =>  {
                                 <div className="card-body">
                                     <div className="row">
                                         <div className="col-md-6"   >
-                                            <Image src="/portfolio/floatingbarchart.jpg" width="500" height="280"></Image>
+                                            <Image src="/portfolio/floatingbarchart.jpg" width="500" height="280" alt=""></Image>
                                         </div>
                                         <div className="col-md-6 mt-2" >
                                         <div className="h5">Floating Bar Chart</div>
@@ -110,7 +110,7 @@ const dataVisualisation = () =>  {
                                 <div className="card-body">
                                     <div className="row">
                                         <div className="col-md-6"   >
-                                            <Image src="/portfolio/groupmatrix.jpg" width="500" height="280"></Image>
+                                            <Image src="/portfolio/groupmatrix.jpg" width="500" height="280" alt=""></Image>
                                         </div>
                                         <div className="col-md-6 mt-2" >
                                         <div className="h5">Group Matrix Graph</div>
@@ -127,7 +127,7 @@ const dataVisualisation = () =>  {
                                 <div className="card-body">
                                     <div className="row">
                                         <div className="col-md-6"   >
-                                            <Image src="/portfolio/gnatt.jpg" width="500" height="280"></Image>
+                                            <Image src="/portfolio/gnatt.jpg" width="500" height="280" alt=""></Image>
                                         </div>
                                         <div className="col-md-6 mt-2" >
                                         <div className="h5">Gantt Chart</div>
@@ -144,7 +144,7 @@ const dataVisualisation = () =>  {
                                 <div className="card-body">
                                     <div className="row">
                                         <div className="col-md-6"   >
-                                            <Image src="/portfolio/treemap.jpg" width="500" height="280"></Image>
+                                            <Image src="/portfolio/treemap.jpg" width="500" height="280" alt=""></Image>
                                         </div>
                                         <div className="col-md-6 mt-2" >
                                         <div className="h5">Zoomable TreeMap</div>
@@ -166,7 +166,7 @@ const dataVisualisation = () =>  {
                                 <div className="card-body">
                                     <div className="row">
                                         <div className="col-md-6"   >
-                                            <Image src="/portfolio/india_demography.jpg" width="500" height="280"></Image>
+                                            <Image src="/portfolio/india_demography.jpg" width="500" height="280" alt=""></Image>
                                         </div>
                                         <div className="col-md-6 mt-2" >
                                         <div className="h5">India Demography</div>

@@ -13,7 +13,7 @@ const learning = () =>  {
                 <div className="card-body">
                     <div className="row">
                         <div className="col-md-3"   >
-                            <Image src="/deeplearning.jpg" width="420" height="250"></Image>
+                            <Image src="/deeplearning.jpg" width="420" height="250" alt=""></Image>
                         </div>
                         <div className="col-md-9 mt-2" >
                         <div className="h5">Zero to Deep Learning with Python and Keras - Jose Portilla</div>
@@ -31,7 +31,7 @@ const learning = () =>  {
                 <div className="card-body">
                     <div className="row">
                         <div className="col-md-3"   >
-                            <Image src="/big_data.jpg" width="420" height="250"></Image>
+                            <Image src="/big_data.jpg" width="420" height="250" alt=""></Image>
                         </div>
                         <div className="col-md-9 mt-2" >
                         <div className="h5">Big Data Hadoop and Spark Developer</div>
@@ -49,7 +49,7 @@ const learning = () =>  {
                 <div className="card-body">
                     <div className="row">
                         <div className="col-md-3"   >
-                            <Image src="/iit_roorkee.jpg" width="420" height="250"></Image>
+                            <Image src="/iit_roorkee.jpg" width="420" height="250" alt=""></Image>
                         </div>
                         <div className="col-md-9 mt-2" >
                         <div className="h5">Big Data Engineering with Hadoop and Spark</div>

@@ -13,7 +13,7 @@ const education = () =>  {
                     <div className="row">
                         <div className="col-md-3"   >
                         <p>2005 - 2007</p>
-                        <div className="h5">Master's Degree</div>
+                        <div className="h5">Master&apos;s Degree</div>
                         </div>
                         <div className="col-md-9 " >
                         <div className="h5">Master in Computer Application (MCA)</div>
@@ -28,7 +28,7 @@ const education = () =>  {
                     <div className="row">
                         <div className="col-md-3"   >
                         <p>2000 - 2004</p>
-                        <div className="h5">Bachelor's Degree</div>
+                        <div className="h5">Bachelor&apos;s Degree</div>
                         </div>
                         <div className="col-md-9 " >
                         <div className="h5">Bachelor in Computer Application</div>
